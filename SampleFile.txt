@@ -1,1 +1,1 @@
-This is a sample file to demonstrate usage of git
+This is a sample file to demonstrate usage of GIT
