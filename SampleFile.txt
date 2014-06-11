@@ -1,4 +1,5 @@
 This is a sample file to demonstrate usage of git
 Added new line 
 Added 3rd line
+Added 5th line by dev 1
 
